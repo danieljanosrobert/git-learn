@@ -1,3 +1,8 @@
 Some random characters
 again
+<<<<<<< HEAD
 and again
+=======
+and again again
+>>>>>>> my-branch
+Modification on master branch and on new-branch.
