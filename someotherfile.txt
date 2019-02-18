@@ -1,2 +1,2 @@
 This file will contain the first commit that will be first commit.
-After that I'll amend that commit to second comit.
+After that I'll amend that commit to second comit.now trying the stash: I'm modifyind this
